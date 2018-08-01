@@ -1,7 +1,6 @@
 # RxSwift
 
 
-https://jdub7138.blog.me/220983291803
 
 
 Reactive Programming과 Rx
@@ -72,6 +71,8 @@ Rx에서는 모든 것이 Data Stream이다.
 모든 것이 Stream이라는 핵심 개념을 잘 이해해야 Rx를 잘 활용할 수 있게 됩니다. Rx는 사실 Stream을 Observable이라고 표현하며 실제 라이브러리에서도 Observable의 객체로 선언됩니다. 그리고 해당 Data Stream, 즉, Observable이 언제(When), 그리고 무엇을(What) 분출하는지 듣고 있기 위해 Subscribe를 하게 됩니다.  
 
 참조
+
+
 Reactive Programming 개념 설명 (가장 좋은 설명)
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
