@@ -5,7 +5,8 @@
 
 Reactive Programming과 Rx
 비동기 데이터 흐름
-Reactive Programming을 한줄로 설명하자면 다음과 같습니다. (출처: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+Reactive Programming을 한줄로 설명하자면 다음과 같습니다. 
+(출처: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 Reactive programming is prog
 
