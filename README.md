@@ -79,7 +79,6 @@ Rx에서는 모든 것이 Data Stream이다.
 
 Reactive Programming 개념 설명 (가장 좋은 설명)
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-
 Functional Programming
 http://blog.jenkster.com/2015/12/what-is-functional-programming.html
 Functional Programming in Swift 소개https://www.raywenderlich.com/114456/introduction-functional-programming-swiftFunctional Reactive Programming 기초와 기능
