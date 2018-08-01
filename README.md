@@ -8,7 +8,9 @@ URL 복사  이웃추가
 비동기 데이터 흐름
 Reactive Programming을 한줄로 설명하자면 다음과 같습니다. (출처: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
-Reactive programming is programming with asynchronous data streams.
+Reactive programming is prog
+
+ramming with asynchronous data streams.
 즉, 비동기적 데이터 흐름을 처리하는 프로그래밍이라는 것입니다. 이러한 관점에서 Reactive Programming은 Asynchronous Dataflow Programming이라고도 불리웁니다. 아래에서 더 자세히 다루겠지만, Reactive Programming의 핵심은 모든 것을 비동기적인 데이터의 Stream으로 간주하고, Observer 디자인 패턴을 활용해서 이러한 비동기 이벤트를 처리하는 것에 있습니다.
 
 실시간화
